@@ -1,20 +1,23 @@
 
 body {
-backgroup-color: #ACE4AA;
+	backgroup-color: #ACE4AA;
 
 }
 
 h1 {
-	color:#C9D6EA;
+	color:#585a5e;
 	text-align:center;
-	font-family: ;
+	font-family:"Montserrat"
+	font-size: 60px;
 }
 
-p
-4F345A
+p, li, a {
+	font-family: "Montserrat", serif;
+	font-size: 18px;
+}
 
-5D4E6D
-
-FF6542
-
-DDDBF1
+a:hover {
+	color: 484D6D;
+}
+	
+		
